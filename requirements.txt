@@ -1,0 +1,5 @@
+Flask==1.1.2
+Flask-Cors
+flask-sqlalchemy
+Flask-Migrate==2.5.0
+psycopg2
